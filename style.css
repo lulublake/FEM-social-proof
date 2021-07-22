@@ -178,12 +178,13 @@ p {
         align-items: center;
         width: 35vw;
         margin-bottom: 0rem;
+        margin-top: 4rem;
     }
     .stat {
         flex-direction: row;
         align-items: center;
         justify-content: flex-start;
-        padding: .5rem 0;
+        padding: .7rem 0;
         min-width: 30vw;
         max-width: 26rem;
     }
